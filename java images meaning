@@ -1,0 +1,3 @@
+• eclipse-temurin:<version>-jdk (e.g., 21-jdk): Includes the full Java Development Kit. Best for building apps or compiling code.
+• eclipse-temurin:<version>-jre (e.g., 21-jre): Contains only the Java Runtime Environment. Ideal for running pre-compiled applications in production due to its smaller attack surface and size.
+• OS Distributions: The default tags are typically built on Ubuntu (such as jammy or noble). Smaller Alpine Linux (-alpine) variants are available for minimal footprint, alongside Windows Server Core options.
